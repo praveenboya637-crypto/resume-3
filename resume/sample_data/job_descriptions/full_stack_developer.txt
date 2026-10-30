@@ -1,0 +1,23 @@
+
+py -m streamlit run app.pyJob Title: Full-Stack Web Developer (Python & React)
+Department: Web & Cloud Products
+Location: Bengaluru, India / Remote
+
+About the Role:
+We are looking for a skilled Full-Stack Developer to build responsive, scalable, and high-performance web applications. You will be responsible for end-to-end development, from designing dynamic React frontend components to developing robust backend REST APIs and microservices in Python.
+
+Key Responsibilities:
+- Develop modern, responsive user interfaces using React, TypeScript, HTML5, and Tailwind CSS.
+- Design, build, and maintain high-performance backend microservices using Python (FastAPI or Django) and Node.js.
+- Architect and query relational and NoSQL databases, including PostgreSQL, MySQL, and Redis.
+- Build secure, scalable RESTful APIs and WebSocket interfaces with authentication and caching.
+- Package applications using Docker containers and participate in CI/CD pipeline automation via GitHub Actions.
+- Write robust unit tests, participate in sprint planning, and conduct peer code reviews.
+
+Required Qualifications & Skills:
+- Strong programming experience in Python, JavaScript, and TypeScript.
+- Demonstrated hands-on expertise with React, Next.js, and modern CSS frameworks.
+- Backend proficiency with FastAPI, Django, Flask, or Node.js.
+- Strong knowledge of PostgreSQL, MongoDB, Redis, and SQL query optimization.
+- Familiarity with Docker, Git version control, REST APIs, and Linux server environments.
+- Excellent communication skills, agile teamwork, and dedication to code quality.

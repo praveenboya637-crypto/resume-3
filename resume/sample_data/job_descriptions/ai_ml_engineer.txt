@@ -1,0 +1,22 @@
+Job Title: AI / Machine Learning Engineer
+Department: Artificial Intelligence & Data Innovations
+Location: Hybrid / Remote
+
+About the Role:
+We are seeking an innovative AI / Machine Learning Engineer to design, build, and deploy production-grade machine learning models and Generative AI applications. You will collaborate with data scientists and software engineers to translate business requirements into state-of-the-art NLP, Deep Learning, and predictive systems.
+
+Key Responsibilities:
+- Design, train, evaluate, and deploy Machine Learning and Deep Learning models using Python, PyTorch, and Scikit-Learn.
+- Build NLP pipelines, embeddings, and Retrieval Augmented Generation (RAG) architectures with Hugging Face Transformers and LangChain.
+- Containerize models using Docker and deploy scalable inference microservices on AWS or Azure using FastAPI and Kubernetes.
+- Implement CI/CD pipelines for automated testing, model tracking, and continuous integration via GitHub Actions.
+- Optimize model latency, throughput, and memory footprint in production environments.
+- Collaborate in an Agile/Scrum team, conducting code reviews and maintaining clean, well-documented codebases.
+
+Required Qualifications & Skills:
+- Proficiency in Python, SQL, and data science libraries including Pandas, NumPy, and Scikit-Learn.
+- Strong hands-on experience with PyTorch or TensorFlow for Deep Learning and Natural Language Processing (NLP).
+- Experience with Transformers, Hugging Face, LLM prompt engineering, or vector databases.
+- Familiarity with Docker, FastAPI, Git, and REST APIs for machine learning deployment.
+- Understanding of software engineering principles, Unit Testing (pytest), and cloud computing (AWS/GCP).
+- Strong problem solving, analytical thinking, and cross-functional team collaboration skills.
